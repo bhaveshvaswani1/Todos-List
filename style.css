@@ -45,11 +45,11 @@ h1, h2{
     color: #444;
 }
 
-#todos-list, #add-todos, #tabbed-content{
+#todos-list, #add-todos{
     margin: 30px;
 }
 
-#todos-list ul, #tabbed-content ul{
+#todos-list ul{
     list-style-type: none;
     padding: 0;
 }
